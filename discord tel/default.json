@@ -246,7 +246,7 @@
         "WHITE_630": "#908caa"
     },
     "background": {
-        "alpha": 1,
+        "alpha": 0.3,
         "url": "https://github.com/nioko1187/discord-galaxy/blob/main/discord%20tel/asset/image.jpg?raw=true"
     },
     "plus": {
